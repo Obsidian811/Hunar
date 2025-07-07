@@ -1,0 +1,7 @@
+0000000000000000000000000000000000000000 4ee2ac241c2f2451c67f80b2bdf01644ff92fb62 thecamouflagedgeek <pretentiousgazette@gmail.com> 1751362166 +0530	commit (initial): Initialize project using Create React App
+4ee2ac241c2f2451c67f80b2bdf01644ff92fb62 6892b63b65b8f9bcb85d0f2e2a17518793c560b8 thecamouflagedgeek <pretentiousgazette@gmail.com> 1751462569 +0530	commit: Initial commit with the Landing , Login , Dashboard and Workshop pages
+6892b63b65b8f9bcb85d0f2e2a17518793c560b8 0000000000000000000000000000000000000000 thecamouflagedgeek <pretentiousgazette@gmail.com> 1751462764 +0530	Branch: renamed refs/heads/master to refs/heads/main
+0000000000000000000000000000000000000000 6892b63b65b8f9bcb85d0f2e2a17518793c560b8 thecamouflagedgeek <pretentiousgazette@gmail.com> 1751462764 +0530	Branch: renamed refs/heads/master to refs/heads/main
+6892b63b65b8f9bcb85d0f2e2a17518793c560b8 55bd48d82bd711b37b66858009eda530779d41f0 thecamouflagedgeek <pretentiousgazette@gmail.com> 1751515212 +0530	commit: Fixed Tailwind css and style updated
+55bd48d82bd711b37b66858009eda530779d41f0 790759c3cf27a62916376819e60f897f2c9410fc thecamouflagedgeek <pretentiousgazette@gmail.com> 1751572007 +0530	commit: Added all the pages from the User POV and done with the layouts and audio part
+790759c3cf27a62916376819e60f897f2c9410fc 245687c730728cc0ae8e6981585c99417dcc9540 thecamouflagedgeek <pretentiousgazette@gmail.com> 1751781025 +0530	commit: Final updated changes
